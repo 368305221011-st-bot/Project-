@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "title": "Software Engineer",
+    "desc": "ออกแบบ พัฒนา ทดสอบ และดูแลรักษาซอฟต์แวร์หรือแอปพลิเคชันให้ทำงานได้อย่างมีประสิทธิภาพ",
+    "skills": "React Native, JavaScript, Node.js, Git",
+    "img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600"
+  },
+  {
+    "id": "2",
+    "title": "Data Scientist & AI Specialist",
+    "desc": "วิเคราะห์ข้อมูล สร้างโมเดลทำนาย และพัฒนาเทคโนโลยีปัญญาประดิษฐ์เพื่อช่วยแก้ปัญหา",
+    "skills": "Python, SQL, Statistics, Machine Learning",
+    "img": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600"
+  },
+  {
+    "id": "3",
+    "title": "UX/UI Designer",
+    "desc": "ออกแบบหน้าตาและประสบการณ์ใช้งานของเว็บไซต์หรือแอปพลิเคชันให้สวยงามและใช้งานง่าย",
+    "skills": "Figma, Prototyping, Wireframing, User Research",
+    "img": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=600"
+  },
+  {
+    "id": "4",
+    "title": "Digital Marketing Strategist",
+    "desc": "วางแผนการตลาดออนไลน์ วิเคราะห์กลุ่มเป้าหมาย และพัฒนาแคมเปญเพื่อเพิ่มการเข้าถึงลูกค้า",
+    "skills": "SEO, Google Analytics, Content Marketing, Social Ads",
+    "img": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600"
+  },
+  {
+    "id": "5",
+    "title": "Cyber Security Analyst",
+    "desc": "ตรวจสอบและป้องกันภัยคุกคามทางไซเบอร์ พร้อมช่วยรักษาความปลอดภัยของเครือข่ายและข้อมูล",
+    "skills": "Network Security, Risk Assessment, Ethical Hacking",
+    "img": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600"
+  }
+]
