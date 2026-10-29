@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "title": "Software Engineer",
+    "desc": "ออกแบบ พัฒนา ทดสอบ และดูแลรักษาซอฟต์แวร์หรือแอปพลิเคชัน รวมถึงแก้ไขข้อผิดพลาดและปรับปรุงระบบให้มีประสิทธิภาพ",
+    "skills": "React Native, JavaScript, Node.js, Git",
+    "img": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600",
+    "responsibilities": [
+      "วิเคราะห์ความต้องการของผู้ใช้",
+      "ออกแบบและพัฒนาโปรแกรมหรือแอปพลิเคชัน",
+      "ทดสอบและแก้ไขข้อผิดพลาด",
+      "ทำงานร่วมกับทีมพัฒนา"
+    ],
+    "career_path": "เติบโตเป็น Senior Software Engineer, Tech Lead หรือ Software Architect ได้"
+  },
+  {
+    "id": "2",
+    "title": "Data Scientist & AI Specialist",
+    "desc": "วิเคราะห์ข้อมูลเพื่อค้นหาข้อมูลเชิงลึก สร้างโมเดลทำนาย และพัฒนาโซลูชันด้วยปัญญาประดิษฐ์",
+    "skills": "Python, SQL, Statistics, Machine Learning",
+    "img": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600",
+    "responsibilities": [
+      "รวบรวมและทำความสะอาดข้อมูล",
+      "วิเคราะห์ข้อมูลและสร้างรายงาน",
+      "พัฒนาและประเมินโมเดล Machine Learning",
+      "นำเสนอผลวิเคราะห์เพื่อช่วยตัดสินใจ"
+    ],
+    "career_path": "เติบโตเป็น Senior Data Scientist, AI Engineer หรือ Data Science Lead ได้"
+  },
+  {
+    "id": "3",
+    "title": "UX/UI Designer",
+    "desc": "ออกแบบหน้าตาและประสบการณ์การใช้งานเว็บไซต์หรือแอปพลิเคชันให้สะดวก เข้าใจง่าย และตรงกับความต้องการของผู้ใช้",
+    "skills": "Figma, Prototyping, Wireframing, User Research",
+    "img": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?w=600",
+    "responsibilities": [
+      "ศึกษาความต้องการของผู้ใช้",
+      "ออกแบบโครงร่างและหน้าจอ",
+      "สร้างต้นแบบเพื่อทดสอบการใช้งาน",
+      "ปรับปรุงแบบจากผลตอบรับ"
+    ],
+    "career_path": "เติบโตเป็น Senior Product Designer, UX Lead หรือ Product Design Manager ได้"
+  },
+  {
+    "id": "4",
+    "title": "Digital Marketing Strategist",
+    "desc": "วางแผนกลยุทธ์การตลาดออนไลน์ วิเคราะห์กลุ่มเป้าหมาย และพัฒนาแคมเปญเพื่อเพิ่มการเข้าถึงและผลลัพธ์ทางธุรกิจ",
+    "skills": "SEO, Google Analytics, Content Marketing, Social Ads",
+    "img": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=600",
+    "responsibilities": [
+      "วางแผนแคมเปญการตลาดดิจิทัล",
+      "วิเคราะห์ผลลัพธ์จากช่องทางออนไลน์",
+      "ดูแลเนื้อหาและโฆษณาออนไลน์",
+      "ปรับกลยุทธ์จากข้อมูลและพฤติกรรมลูกค้า"
+    ],
+    "career_path": "เติบโตเป็น Digital Marketing Manager, Performance Marketing Lead หรือ Marketing Director ได้"
+  },
+  {
+    "id": "5",
+    "title": "Cyber Security Analyst",
+    "desc": "ตรวจสอบและป้องกันภัยคุกคามทางไซเบอร์ เพื่อรักษาความปลอดภัยของเครือข่าย ระบบ และข้อมูลขององค์กร",
+    "skills": "Network Security, Risk Assessment, Ethical Hacking",
+    "img": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600",
+    "responsibilities": [
+      "เฝ้าระวังและตรวจสอบเหตุการณ์ด้านความปลอดภัย",
+      "วิเคราะห์ช่องโหว่และความเสี่ยง",
+      "ช่วยรับมือเหตุการณ์โจมตีทางไซเบอร์",
+      "จัดทำรายงานและแนวทางป้องกัน"
+    ],
+    "career_path": "เติบโตเป็น Security Engineer, Incident Response Specialist หรือ Security Architect ได้"
+  }
+]
